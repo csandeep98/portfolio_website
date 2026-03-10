@@ -51,7 +51,7 @@ export default function Hero() {
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-blue-700 transition-colors">
                 <Linkedin className="h-6 w-6" />
               </a>
-              <a href="mailto:hello@example.com" className="hover:text-indigo-600 transition-colors">
+              <a href="mailto:sandeepchilukurik@gmail.com" className="hover:text-indigo-600 transition-colors">
                 <Mail className="h-6 w-6" />
               </a>
             </div>
