@@ -3,13 +3,13 @@ import { Github, ExternalLink, ArrowUpRight } from 'lucide-react';
 
 const projects = [
   {
-    title: "Predictive Maintenance System",
-    description: "Developed an end-to-end pipeline using IoT sensor data to predict machinery failure, reducing downtime by 25%.",
-    tags: ["Python", "TensorFlow", "AWS IoT", "React"],
-    github: "https://github.com",
+    title: "Agentic SQL Analyst",
+    description: "Developed a multi-agent AI system that converts natural language questions into SQL queries and provides intelligent data analysis, enabling non-technical users to query complex databases through conversational interface.",
+    tags: ["Python", "LangChain", "Streamlit", "Ollama", "SQLite", "AI Agents"],
+    github: "https://github.com/csandeep98/agentic-sql-analyst",
     demo: "https://example.com",
-    image: "https://picsum.photos/seed/project1/600/400"
-  },
+    image: "https://picsum.photos/seed/agentic-sql-analyst/600/400"
+},
   {
     title: "NLP Sentiment Analyzer",
     description: "Built a transformer-based model to analyze customer feedback in real-time, visualizing trends on a custom dashboard.",
