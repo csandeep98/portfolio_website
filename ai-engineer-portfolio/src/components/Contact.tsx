@@ -29,7 +29,7 @@ export default function Contact() {
             </div>
             <span className="text-sm font-medium">GitHub</span>
           </a>
-          <a href="www.linkedin.com/in/sandeep-chilukuri" className="flex flex-col items-center gap-2 text-slate-500 hover:text-blue-700 transition-colors group">
+          <a href="https://www.linkedin.com/in/sandeep-chilukuri" className="flex flex-col items-center gap-2 text-slate-500 hover:text-blue-700 transition-colors group">
             <div className="p-3 bg-white rounded-full shadow-sm border border-slate-200 group-hover:border-blue-200 group-hover:bg-blue-50 transition-colors">
               <Linkedin className="h-6 w-6" />
             </div>
