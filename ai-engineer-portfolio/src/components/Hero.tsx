@@ -36,7 +36,7 @@ export default function Hero() {
               </a>
               <a 
                 href="/portfolio_website/public/Sandeep_Chilukuri_Resume_Bosch.pdf" 
-                download="Sandeep_Chilukuri_Resume.pdf"
+                download
                 className="inline-flex items-center justify-center px-6 py-3 border border-slate-200 text-base font-medium rounded-xl text-slate-700 bg-white hover:bg-slate-50 transition-colors shadow-sm"
               >
                 <Download className="mr-2 h-4 w-4" />
