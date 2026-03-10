@@ -11,13 +11,13 @@ const projects = [
     image: "https://picsum.photos/seed/agentic-sql-analyst/600/400"
 },
   {
-    title: "NLP Sentiment Analyzer",
-    description: "Built a transformer-based model to analyze customer feedback in real-time, visualizing trends on a custom dashboard.",
-    tags: ["PyTorch", "Hugging Face", "FastAPI", "D3.js"],
-    github: "https://github.com",
-    demo: "https://example.com",
-    image: "https://picsum.photos/seed/project2/600/400"
-  },
+    title: "Interpretable Fairness-Aware ML Toolkit",
+    description: "A comprehensive open-source toolkit integrating explainability, counterfactuals, subgroup fairness metrics, and automated audit reports for responsible AI development and compliance.",
+    tags: ["PyTorch", "scikit-learn", "SHAP", "Captum", "Fairness", "Explainability", "Audit Reports"],
+    github: "https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit",
+    demo: "https://github.com/csandeep98/Interpretable-Fairness-Aware-ML-Toolkit/blob/main/examples/demo_classification.ipynb",
+    image: "https://picsum.photos/seed/fairness-toolkit/600/400"
+},
   {
     title: "Computer Vision for Retail",
     description: "Implemented an object detection system for automated inventory management using YOLOv8 and edge computing.",
