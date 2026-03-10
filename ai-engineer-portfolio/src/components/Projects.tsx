@@ -19,13 +19,13 @@ const projects = [
     image: "https://picsum.photos/seed/fairness-toolkit/600/400"
 },
   {
-    title: "Computer Vision for Retail",
-    description: "Implemented an object detection system for automated inventory management using YOLOv8 and edge computing.",
-    tags: ["OpenCV", "YOLO", "Edge Impulse", "C++"],
-    github: "https://github.com",
-    demo: "https://example.com",
-    image: "https://picsum.photos/seed/project3/600/400"
-  },
+    "title": "End-to-End Financial Data & ML Pipeline",
+    "description": "Architected an automated ELT pipeline extracting financial data via REST APIs. Transformation logic handled by dbt with incremental models in PostgreSQL. Implemented CI/CD via GitHub Actions to trigger automated model retraining upon statistical drift detection (monitored via MLflow), reducing manual maintenance by 90%.",
+    "tags": ["Apache Airflow", "PostgreSQL", "dbt Core", "MLflow", "Docker", "GitHub Actions", "Python", "Machine Learning"],
+    "github": "https://github.com/csandeep98/e2e_data_pipeline",
+    "demo": "http://localhost:8080",
+    "image": "https://picsum.photos/seed/financial-pipeline/600/400"
+},
   {
     title: "Financial Forecasting Model",
     description: "Created a time-series forecasting model for stock market trends using LSTM networks and alternative data sources.",
